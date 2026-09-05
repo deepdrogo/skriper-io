@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Skriper — Support Chat Tool — become a support agent on virtually any website."/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/icon.png" width="96" alt="Skriper icon"/>
 
